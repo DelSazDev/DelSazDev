@@ -1,8 +1,13 @@
 <div align="center">
   <h1 align="center">Hola soy DelSazDev 👋</h1>
 </div>
+
 <div align="center">
-  <img src="https://github.com/DelSazDev/DelSazDev/blob/master/Gemini_Generated_Image_ydrenqydrenqydre.jpg" width="450" height="300"/>
+  <img src="https://github.com/DelSazDev/DelSazDev/raw/master/ImagenFondo.jpg" width="450" height="300"/>
+</div>
+
+<div align="center">
+ <h2 align="center">Comprobando que se efectuan los cambios.</h2>
 </div>
 
 
