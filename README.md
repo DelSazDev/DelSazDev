@@ -1,6 +1,6 @@
 <div>
   <h1>Hola soy DelSazDev 👋</h1>
-  <img src="https://github.com/DelSazDev/DelSazDev/blob/master/Gemini_Generated_Image_ydrenqydrenqydre.jpg"/>
+  <img src="https://github.com/DelSazDev/DelSazDev/blob/master/Gemini_Generated_Image_ydrenqydrenqydre.jpg" widht=300px heigth=300px/>
 </div>
 
 
