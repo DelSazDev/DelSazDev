@@ -1,7 +1,7 @@
-<div>
-  <h1>Hola soy DelSazDev 👋</h1>
-  <img src="https://github.com/DelSazDev/DelSazDev/blob/master/Gemini_Generated_Image_ydrenqydrenqydre.jpg" width="300" height="300"/>
+<div align="center">
+  <h1 align="center">Hola soy DelSazDev 👋</h1>
 </div>
+<img src="https://github.com/DelSazDev/DelSazDev/blob/master/Gemini_Generated_Image_ydrenqydrenqydre.jpg" width="300" height="300"/>
 
 
 <!--
