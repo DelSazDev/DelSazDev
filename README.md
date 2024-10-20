@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/DelSazDev/DelSazDev/raw/master/ImagenFondo.jpg" width="450" height="300"/>
+  <img src="https://github.com/DelSazDev/DelSazDev/raw/master/ImagenFondo.jpg" width="450" height="300" style="border-radius: 15px;"/>
 </div>
 
 <div align="center">
