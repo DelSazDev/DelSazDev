@@ -15,6 +15,9 @@
   <h2>Tecnologías</h2>
   <div>
     <img src="./htmlLogo.svg">
+    <img src="./cssLogo.svg">
+    <img src="./javascriptLogo.svg">
+    <img src="./pythonLogo.svg">
   </div>
 </div>
 
