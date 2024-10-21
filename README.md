@@ -21,6 +21,13 @@
   </div>
 </div>
 
+<div>
+  <h3>Herramientas</h3>
+  <div>
+    <img src="./gitLogo.svg">
+  </div>
+</div>
+
 
 <!--
 **DelSazDev/DelSazDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
