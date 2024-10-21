@@ -18,13 +18,14 @@
     <img src="./cssLogo.svg">
     <img src="./javascriptLogo.svg">
     <img src="./pythonLogo.svg">
+    <img src="./linuxLogosvg.svg">
   </div>
 </div>
 
 <div>
   <h3>Herramientas</h3>
   <div>
-    <img src="./gitLogo.svg">
+    <img src="./gitLogoNuevo.svg">
   </div>
 </div>
 
