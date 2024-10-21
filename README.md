@@ -6,8 +6,13 @@
   <img src="./ImagenAmanecer.jpg" width="650" height="300" style="border-radius: 15px;"/>
 </div>
 
-<div align="center">
- <h2 align="center">Comprobando que se efectuan los cambios.</h2>
+<div>
+ <h2>Sobre mí</h2>
+ <p>Empezando tardío en el Desarrollo Web</p>
+</div>
+
+<div>
+  <h2>Tecnologías</h2>
 </div>
 
 
